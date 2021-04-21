@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+P:\IdeaProjects\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2610032499.index
+\01-JSP入门项目\src
+P:\IdeaProjects\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3369419522.index
+\03-useForEach标签循环遍历容器和数组\src
+P:\IdeaProjects\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2316534833.index
+\02-ForEach标签循环遍历容器和数组\src
